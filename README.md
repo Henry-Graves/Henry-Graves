@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi👋, I'm Henry👩‍💻</h1>
+<h3 align="center">Incoming SWE at Fannie Mae & UCF National Merit Scholar</h3>
 
-<!--
-**Henry-Graves/Henry-Graves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **[Tower](https://github.com/ucf-tower-app)**
 
-Here are some ideas to get you started:
+- 📄 My **[resume](https://henrygraves.me/resume.pdf)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 My **[email](mailto:henrywgraves11@gmail.com)**
+
+- 🤝 My **[LinkedIn](https://www.linkedin.com/in/henrygraves/)**
+
+<img height="90px" src="https://github-profile-trophy.vercel.app/?username=Henry-Graves&theme=dracula&title=Commit,PullRequest,Repositories,Issues,Stars">
+<img src="https://komarev.com/ghpvc/?username=Henry-Graves&label=Profile%20views&color=68bcfd&style=flat" alt="Henry-Graves GitHub Profile Views" />
