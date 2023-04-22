@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Henry👩‍💻</h1>
+<h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">Incoming SWE at Fannie Mae & UCF National Merit Scholar</h3>
 
 - 🔭 I’m currently working on **[Tower](https://github.com/ucf-tower-app)**
