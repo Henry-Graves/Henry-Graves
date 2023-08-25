@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">Incoming SWE at Fannie Mae & UCF National Merit Scholar</h3>
+<h3 align="center">Software Engineer at Fannie Mae & UCF graduate</h3>
+<br>
 
-- 🔭 I’m currently working on **[Tower](https://github.com/ucf-tower-app)**
+- 👨‍💻 I'm a full-stack SWE mainly using Python, PySpark, SQL, and AWS services.
+
+- 🔭 I previously worked on **[Tower](https://github.com/ucf-tower-app)**
 
 - 📄 My **[resume](https://henrygraves.me/resume.pdf)**
 
