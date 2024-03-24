@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer at Fannie Mae & UCF graduate</h3>
 <br>
 
-- 👨‍💻 I'm a full-stack SWE mainly using Python & AWS.
+- 👨‍💻 I'm a full-stack SWE mainly using Python and AWS.
 
 - 🔭 I previously worked on **[Tower](https://github.com/ucf-tower-app)**
 
