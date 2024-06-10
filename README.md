@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">Software Engineer at Fannie Mae & UCF Honors graduate</h3>
+<h3 align="center">Software Engineer at Fannie Mae & UCF Honors CS graduate</h3>
 <br>
 
-- 👨‍💻 I'm a full-stack software engineer focusing on Python, Java, JS frameworks, and AWS!
+- 👨‍💻 Full-stack software engineer passionate about learning, leadership, and comprehensively high-quality work
 
 - 🎓 Certified AWS Developer Associate, Solutions Architecht Associate, and Cloud Practitioner
 
