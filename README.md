@@ -8,7 +8,7 @@
 
 - 🧗‍♂️ The rock climbing social media I made with my friends: **[Tower](https://github.com/ucf-tower-app)**
 
-- 👾 The video game I designed and developed with a hackathon team: **[Summon Right Up](https://ldjam.com/events/ludum-dare/55/$384169)**
+- 👾 The video game we made for a hackathon: **[Summon Right Up](https://ldjam.com/events/ludum-dare/55/$384169)**
   
 - 📚 Many more projects on my **[portfolio website](https://henrygraves.me/)**
 
