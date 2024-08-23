@@ -14,7 +14,7 @@
 
 - 📄 My **[resume](https://henrygraves.me/resume.pdf)**
 
-- 📫 My **[email](mailto:henrywgraves11@gmail.com)**
+- 📫 My **[email](mailto:henrygraves.dev@gmail.com)**
 
 - 🤝 My **[LinkedIn](https://www.linkedin.com/in/henrygraves/)**
 
