@@ -12,10 +12,11 @@
   
 - 📚 Many more projects on my **[portfolio website](https://henrygraves.me/)**
 
+- 🤝 My **[LinkedIn](https://www.linkedin.com/in/henrygraves/)**
+  
 - 📄 My **[resume](https://henrygraves.me/resume.pdf)**
 
 - 📫 My **[email](mailto:henrygraves.dev@gmail.com)**
 
-- 🤝 My **[LinkedIn](https://www.linkedin.com/in/henrygraves/)**
 
 <img height="90px" src="https://github-profile-trophy.vercel.app/?username=Henry-Graves&theme=dracula&title=Commit,PullRequest,Issues">
