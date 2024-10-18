@@ -17,6 +17,3 @@
 - 📄 My **[resume](https://henrygraves.me/resume.pdf)**
 
 - 📫 My **[email](mailto:henrygraves.dev@gmail.com)**
-
-
-<img height="90px" src="https://github-profile-trophy.vercel.app/?username=Henry-Graves&theme=dracula&title=Commit,PullRequest,Issues">
