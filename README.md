@@ -1,22 +1,20 @@
-<h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">Software Engineer at Fannie Mae & UCF Honors CS graduate</h3>
-<br>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-- 👨‍💻 Full-stack software engineer passionate about learning, leadership, and comprehensively high-quality work
+I'm [**Henry**](https://henrygraves.me), a software engineer in Arlington, Virginia.
 
-- 🎓 Certified AWS Developer Associate, Solutions Architecht Associate, and Cloud Practitioner
+I'm a **full-stack developer** working at [**Fannie Mae**](https://www.fanniemae.com/) 🏠. 
 
-- 🧗‍♂️ The rock climbing social media I made with my friends: **[Tower](https://github.com/ucf-tower-app)**
+Previously, I worked with startups (Web, Mobile, VR) and graduated with a [4.0 GPA in CS](https://www.cs.ucf.edu/). 
+I'm always learning, recently celebrating my [third AWS Certification](https://aws.amazon.com/certification/) (Developer, Solutions Architect, Cloud Practitioner).
 
-- 👾 The video game we made for a hackathon: **[Summon Right Up](https://ldjam.com/events/ludum-dare/55/$384169)**
-  
-- 📚 Many more projects on my **[portfolio website](https://henrygraves.me/)**
+#### My Recent Projects:
+- 🧗‍♂️ **[Rock Climbing Social Media App](https://henrygraves.me/#:~:text=Made%20with%20React%20Native%2C%20Typescript%2C%20%26%20Firebase.)**
+- 📚 **[Portfolio Website](https://henrygraves.me/)**
+- 🎨 **[AI Art Exhibit App](https://henrygraves.me/#:~:text=Made%20with%20Python%2C%20Tkinter%2C%20OpenCV%20%26%20various%20APIs.)**
+- 👾 **[Retro Action Game](https://henrygraves.me/#:~:text=Made%20with%20Unity%20%26%20Blender.)** 
+- 🎮 **[Hackathon Video Game](https://ldjam.com/events/ludum-dare/55/$384169)**
 
-- 🤝 My **[LinkedIn](https://www.linkedin.com/in/henrygraves/)**
-  
-- 📄 My **[resume](https://henrygraves.me/resume.pdf)**
-
-- 📫 My **[email](mailto:henrygraves.dev@gmail.com)**
-
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/henrygraves/)
+#### Let's connect!
+- 🤝 **[My LinkedIn](https://www.linkedin.com/in/henrygraves/)** 
+- 📄 **[My Resume](https://henrygraves.me/resume.pdf)**
+- 📫 **[My Email](mailto:henrygraves.dev@gmail.com)**
