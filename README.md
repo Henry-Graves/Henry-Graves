@@ -4,7 +4,7 @@ I’m [**Henry**](https://henrygraves.me), a full-stack software engineer with a
 
 - 🎓 B.S. in Computer Science (Honors, 4.0 GPA) @ UCF
 - ☁️ AWS Certified Developer, Solutions Architect, and Cloud Practitioner
-- 🚀 Worked with startups in games, VR/AR, and simulation training during undergrad
+- 🚀 Worked with startups in VR/AR and games during undergrad
 - 📚 Coursework explored AI, ML, system design, full-stack development, UX, software and game design, robotics, entrepreneurship, leadership, and project management
 
     
