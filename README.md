@@ -2,9 +2,9 @@
 
 I’m [**Henry**](https://henrygraves.me), a software engineer scaling AI infrastructure, distributed systems, and full-stack dev.
 
-- 🏦 SWE II on Gen AI Platform @ JPMorgan Chase
-- 🏠 Prev. full-stack & infrastructure SWE @ Fannie Mae
-- 🎓 B.S. in Computer Science 4.0 GPA @ UCF
+- 🏦 SWE II on the AI Platform @ JPMorgan Chase
+- 🏠 Prev. Full-Stack SWE @ Fannie Mae
+- 🎓 BS in Computer Science 4.0 GPA @ UCF
 - ☁️ AWS Certified Solutions Architect and Developer
 - 🚀 Built VR, AR, and gaming products at startups
 - 🛠️ Passionate about AI, ML, distributed systems, full-stack dev, product design, and leadership
