@@ -1,8 +1,8 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Henry**](https://henrygraves.me), a software engineer scaling AI infrastructure, distributed systems, and full-stack dev.
+I’m [**Henry**](https://henrygraves.me), a software engineer specializing in AI infrastructure, distributed systems, and full-stack development.
 
-- 🏦 SWE II on the AI Platform @ JPMorgan Chase
+- 🏦 SWE II on the AI Platform @ JP Morgan Chase
 - 🏠 Prev. Full-Stack SWE @ Fannie Mae
 - 🎓 BS in Computer Science 4.0 GPA @ UCF
 - ☁️ AWS Certified Solutions Architect and Developer
